@@ -9,14 +9,15 @@ sitemap:
 ---
 <p class="describe-text">HILOS DE CALIDAD AL ALCANCE DE TODOS.</p>
 <br>
-                                                              ¿Quiénes Somos?
+
+                                                                 ¿Quiénes Somos?
                                                               
-Somos una Hilatura Mexicana fabricante de Estambres para Tejer a mano e Hilo para la Industria Textil desde el año de 1928, siempre ofreciendo el mejor servicio con   productos de excelente calidad a un precio al alcance de todos.
+Somos una Hilatura Mexicana fabricante de Estambres para Tejer a mano e Hilo para la Industria Textil desde el año de 1928, siempre ofreciendo el mejor servicio con                                                productos de excelente calidad a un precio al alcance de todos.
 
 
                                                                      Misión
                                                                      
-Dar el mejor servicio, poniendo a disposición del Cliente productos de Excelente Calidad y con un Precio al Alcance de todos, que los mantiene en la preferencia del   fabricante y consumidor.
+Dar el mejor servicio, poniendo a disposición del Cliente productos de Excelente Calidad y con un Precio al Alcance de todos, que los mantiene en la preferencia del                                                                fabricante y consumidor.
 
 
                                                                       Visión
