@@ -4,7 +4,12 @@ full_logo: true
 title: 
 subtitle: 
 description: HILOS DE CALIDAD AL ALCANCE DE TODOS
-¿Quiénes Somos?
+sitemap:
+  priority: 1.0
+---
+<p class="describe-text">HILOS DE CALIDAD AL ALCANCE DE TODOS.</p>
+<br>
+                                                              ¿Quiénes Somos?
 Somos una Hilatura Mexicana fabricante de Estambres para Tejer a mano e Hilo para la Industria Textil desde el año de 1928, siempre ofreciendo el mejor servicio con                                         productos de excelente calidad a un precio al alcance de todos.
 
                                                                      Misión
@@ -14,9 +19,6 @@ Dar el mejor servicio, poniendo a disposición del Cliente productos de Excelent
 Consolidarnos como empresa líder en el ramo textil, siempre a la vanguardia en calidad y colores para cubrir satisfactoriamente las necesidades de nuestros Clientes.
 sitemap:
   priority: 1.0
----
-<p class="describe-text">HILOS DE CALIDAD AL ALCANCE DE TODOS.</p>
-<br>
 ![image](https://user-images.githubusercontent.com/124215145/232643165-06da865b-3324-48d2-b7b0-209c67c9c88a.png)
 
 This is the index page, describe yourself in few sentences here. Perhaps talk about what you do for living and what you do in your free time. Maybe even leave an [email@address.com](#) or a link to your [resume](#).
