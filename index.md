@@ -10,23 +10,24 @@ sitemap:
 <p class="describe-text">HILOS DE CALIDAD AL ALCANCE DE TODOS.</p>
 <br>
 
-![image](https://user-images.githubusercontent.com/124215145/232645694-068245d5-007f-48c9-b54d-3af25c996e6e.png)
+![image](https://user-images.githubusercontent.com/124215145/232932531-bbb57d75-bf01-43ae-9f06-4d775aeb3f0c.png)
 
 
+
  
  
  
-                                                                 ¿Quiénes Somos?
+                                                  ¿Quiénes Somos?
                                                               
 Somos una Hilatura Mexicana fabricante de Estambres para Tejer a mano e Hilo para la Industria Textil desde el año de 1928, siempre ofreciendo el mejor servicio con                                                productos de excelente calidad a un precio al alcance de todos.
 
 
-                                                                     Misión
+                                                      Misión
                                                                      
 Dar el mejor servicio, poniendo a disposición del Cliente productos de Excelente Calidad y con un Precio al Alcance de todos, que los mantiene en la preferencia del                                                                fabricante y consumidor.
 
 
-                                                                      Visión
+                                                      Visión
                                                                       
 Consolidarnos como empresa líder en el ramo textil, siempre a la vanguardia en calidad y colores para cubrir satisfactoriamente las necesidades de nuestros Clientes.
 
@@ -35,7 +36,7 @@ Consolidarnos como empresa líder en el ramo textil, siempre a la vanguardia en 
 
 This is the index page, describe yourself in few sentences here. Perhaps talk about what you do for living and what you do in your free time. Maybe even leave an [email@address.com](#) or a link to your [resume](#).
 
-Pudhina Fresh is free and open-source. Checkout [Pudhina Fresh](https://github.com/ritijjain/pudhina-fresh).
+TE ESPERAMOS EN ESTA SUCURSAL.[UBICACION](https://www.google.com/maps/place/Colomer,+San+Jos%C3%A9+Caltengo,+43628+Tulancingo+de+Bravo,+Hgo./@20.1070564,-98.3666385,17z/data=!3m1!4b1!4m6!3m5!1s0x85d0564798bee015:0x531b7cbc2e01c5a5!8m2!3d20.1070564!4d-98.3666385!16s%2Fg%2F1tzgpkc8).
 
 <br>
 <br>
