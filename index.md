@@ -10,7 +10,8 @@ sitemap:
 <p class="describe-text">HILOS DE CALIDAD AL ALCANCE DE TODOS.</p>
 <br>
 
-![1](https://user-images.githubusercontent.com/124215145/236379591-6a881e20-b25c-4ff8-b2ca-48f59c061e79.png)
+![1](https://user-images.githubusercontent.com/124215145/236379959-bf124994-450a-4774-a827-5ac39a118d32.png)
+
 
  
  
