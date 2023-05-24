@@ -2,7 +2,7 @@ title: COLOMER 360 # Shown in header on pages with full_logo: true
 short_logo: PF. # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
                      "HILOS DE CALIDAD AL ALCANCE DE TODOS"
-url: "https://colomer360.github.io/" # Site base URL
+url: "" # Site base URL
 
 author:
   name: Ritij Jain
